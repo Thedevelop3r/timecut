@@ -1,0 +1,16 @@
+{
+  "name": "timecut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "time.js",
+  "scripts": {
+    "start": "node time.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg": "^0.0.4",
+    "timecut": "^0.3.3"
+  }
+}
